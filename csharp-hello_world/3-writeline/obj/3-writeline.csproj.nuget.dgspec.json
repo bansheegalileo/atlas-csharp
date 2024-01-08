@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj": {}
+  },
+  "projects": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
+        "projectName": "3-writeline",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
+        "packagesPath": "C:\\Users\\BANSHEE\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\3-writeline\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BANSHEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.sourcelink.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net8.0\9-print_specifiers.exe
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net8.0\9-print_specifiers.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net8.0\9-print_specifiers.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net8.0\9-print_specifiers.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net8.0\9-print_specifiers.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\refint\9-print_specifiers.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\9-print_specifiers.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net8.0\ref\9-print_specifiers.dll
