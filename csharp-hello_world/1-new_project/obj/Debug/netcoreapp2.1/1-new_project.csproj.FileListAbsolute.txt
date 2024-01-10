@@ -1,0 +1,6 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.sourcelink.json
