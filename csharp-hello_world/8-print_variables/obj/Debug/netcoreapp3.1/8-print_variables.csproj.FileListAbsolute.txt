@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.exe
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\bin\Debug\netcoreapp3.1\8-print_variables.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp3.1\8-print_variables.genruntimeconfig.cache

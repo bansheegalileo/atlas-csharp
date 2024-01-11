@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.exe
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.genruntimeconfig.cache

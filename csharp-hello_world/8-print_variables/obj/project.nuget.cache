@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TUAcTyH+89WY9aLWmHnkaWFJvMozwcXuF+oVN+0s8vFuS2402yUlfObQZKj3lXJ9P+m6rg4/1oIxgQkd8qi9dg==",
+  "dgSpecHash": "LCrtdnN04+8JDKMaaVr2w3NQ3BvpS44rYvGMxrLKsu+FfWIZZOBuv4aWaK4O/CcTj2aY0B56aZj8nppP2hYfNQ==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
   "expectedPackageFiles": [],

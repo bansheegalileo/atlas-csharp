@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.exe
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\bin\Debug\netcoreapp3.1\10-copy_cut_paste.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\obj\Debug\netcoreapp3.1\10-copy_cut_paste.genruntimeconfig.cache
