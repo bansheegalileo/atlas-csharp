@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.exe
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.genruntimeconfig.cache

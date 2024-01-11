@@ -1,11 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    ".NETCoreApp,Version=v8.0": {},
+    ".NETCoreApp,Version=v8.0/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    ".NETCoreApp,Version=v8.0": []
   },
   "packageFolders": {
     "C:\\Users\\BANSHEE\\.nuget\\packages\\": {}
@@ -30,7 +31,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -42,24 +42,12 @@
     },
     "frameworks": {
       "net8.0": {
-        "targetAlias": "net8.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }
