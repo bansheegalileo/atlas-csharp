@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\netcoreapp2.1\3-print_alphabt.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\netcoreapp2.1\3-print_alphabt.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\netcoreapp2.1\3-print_alphabt.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\netcoreapp2.1\3-print_alphabt.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\netcoreapp2.1\3-print_alphabt.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\netcoreapp2.1\3-print_alphabt.pdb
