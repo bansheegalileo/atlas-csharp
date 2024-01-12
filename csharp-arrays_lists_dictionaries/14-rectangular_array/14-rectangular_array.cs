@@ -1,27 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
 
-class Dictionary
+class Program
 {
-    public static string BestScore(Dictionary<string, int> myList)
+    static void Main()
     {
-        if (myList.Count == 0)
-        {
-            return "None";
-        }
+        int[,] array = new int[5, 5];
 
-        string bestStudent = "";
-        int bestScore = int.MinValue;
+        array[2, 2] = 1;
 
-        foreach (var entry in myList)
+        for (int i = 0; i < 5; i++)
         {
-            if (entry.Value > bestScore)
+            for (int j = 0; j < 5; j++)
             {
-                bestStudent = entry.Key;
-                bestScore = entry.Value;
+                Console.Write($"{array[i, j]} ");
             }
+            Console.WriteLine();
         }
-
-        return bestStudent;
     }
 }
