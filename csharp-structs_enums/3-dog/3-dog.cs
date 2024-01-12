@@ -1,4 +1,6 @@
 ﻿using System;
+using Enums;
+
 
 struct Dog
 {

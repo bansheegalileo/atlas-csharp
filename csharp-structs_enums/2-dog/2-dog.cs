@@ -1,4 +1,7 @@
 ﻿using System;
+using Enums;
+
+
 struct Dog
 {
     public string name;
