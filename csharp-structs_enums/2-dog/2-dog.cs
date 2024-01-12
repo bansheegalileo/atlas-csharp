@@ -1,5 +1,4 @@
 ﻿using System;
-
 struct Dog
 {
     public string name;

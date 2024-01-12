@@ -1,4 +1,7 @@
-﻿struct Dog
+﻿using System;
+
+
+struct Dog
 {
     public string name;
     public float age;
