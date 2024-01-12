@@ -8,6 +8,6 @@ class Array
         {
             Console.Write($"{array[i]} ");
         }
-        Console.Write(" $\n");
+        Console.WriteLine();
     }
 }
