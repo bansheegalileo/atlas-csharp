@@ -11,7 +11,16 @@ class List
             return myList;
         }
 
-        myList.RemoveAt(index);
-        return myList;
+        List<int> updatedList = new List<int>();
+
+        for (int i = 0; i < myList.Count; i++)
+        {
+            if (i != index)
+            {
+                updatedList.Add(myList[i]);
+            }
+        }
+
+        return updatedList;
     }
 }
