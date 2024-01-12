@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.pdb
