@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\netcoreapp2.1\7-islower.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\netcoreapp2.1\7-islower.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\netcoreapp2.1\7-islower.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\netcoreapp2.1\7-islower.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\netcoreapp2.1\7-islower.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\netcoreapp2.1\7-islower.pdb
