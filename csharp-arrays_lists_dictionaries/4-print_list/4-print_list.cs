@@ -19,7 +19,8 @@ class List
             Console.Write($"{i} ");
         }
 
-        Console.WriteLine();
+        Console.WriteLine($"List Length: {myList.Count}$");
+
         return myList;
     }
 }
