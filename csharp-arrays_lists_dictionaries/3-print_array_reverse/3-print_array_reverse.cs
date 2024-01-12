@@ -1,4 +1,6 @@
-﻿class Array
+﻿using System;
+
+class Array
 {
     public static void Reverse(int[] array)
     {
@@ -6,6 +8,6 @@
         {
             Console.Write($"{array[i]} ");
         }
-        Console.Write("$\n");
+        Console.Write(" $\n");
     }
 }
