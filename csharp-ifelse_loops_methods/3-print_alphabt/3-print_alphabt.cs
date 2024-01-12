@@ -12,6 +12,6 @@ class Program
                 alphabet += letter;
         }
 
-        Console.Write(alphabet + "\n");
+        Console.Write(alphabet);
     }
 }
