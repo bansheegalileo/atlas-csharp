@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.pdb
