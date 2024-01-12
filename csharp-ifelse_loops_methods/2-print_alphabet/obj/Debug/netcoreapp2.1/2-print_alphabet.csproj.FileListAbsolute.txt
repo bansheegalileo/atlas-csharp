@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\bin\Debug\netcoreapp2.1\2-print_alphabet.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\bin\Debug\netcoreapp2.1\2-print_alphabet.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\bin\Debug\netcoreapp2.1\2-print_alphabet.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\bin\Debug\netcoreapp2.1\2-print_alphabet.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\bin\Debug\netcoreapp2.1\2-print_alphabet.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\2-print_alphabet\obj\Debug\netcoreapp2.1\2-print_alphabet.pdb
