@@ -9,6 +9,5 @@ class Program
             Console.Write(letter);
         }
 
-        Console.WriteLine();
     }
 }
