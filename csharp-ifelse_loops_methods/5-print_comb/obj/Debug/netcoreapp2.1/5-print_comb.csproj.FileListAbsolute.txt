@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\bin\Debug\netcoreapp2.1\5-print_comb.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\bin\Debug\netcoreapp2.1\5-print_comb.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\bin\Debug\netcoreapp2.1\5-print_comb.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\bin\Debug\netcoreapp2.1\5-print_comb.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\bin\Debug\netcoreapp2.1\5-print_comb.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\5-print_comb\obj\Debug\netcoreapp2.1\5-print_comb.pdb
