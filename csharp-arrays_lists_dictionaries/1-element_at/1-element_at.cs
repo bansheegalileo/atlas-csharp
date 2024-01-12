@@ -2,7 +2,7 @@
 
 class Array
 {
-    public static int ElementAt(int[] array, int index)
+    public static int elementAt(int[] array, int index)
     {
         if (index < 0 || index >= array.Length)
         {
