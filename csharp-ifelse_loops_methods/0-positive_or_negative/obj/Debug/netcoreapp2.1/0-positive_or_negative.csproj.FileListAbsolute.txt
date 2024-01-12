@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp2.1\0-positive_or_negative.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp2.1\0-positive_or_negative.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp2.1\0-positive_or_negative.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp2.1\0-positive_or_negative.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp2.1\0-positive_or_negative.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp2.1\0-positive_or_negative.pdb
