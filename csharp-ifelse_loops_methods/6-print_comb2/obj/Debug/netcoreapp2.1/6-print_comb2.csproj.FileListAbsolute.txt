@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\netcoreapp2.1\6-print_comb2.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\netcoreapp2.1\6-print_comb2.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\netcoreapp2.1\6-print_comb2.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\netcoreapp2.1\6-print_comb2.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\netcoreapp2.1\6-print_comb2.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\netcoreapp2.1\6-print_comb2.pdb
