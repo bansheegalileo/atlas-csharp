@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.pdb

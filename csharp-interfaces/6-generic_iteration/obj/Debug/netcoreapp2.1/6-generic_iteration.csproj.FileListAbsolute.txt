@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\bin\Debug\netcoreapp2.1\6-generic_iteration.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\6-generic_iteration\obj\Debug\netcoreapp2.1\6-generic_iteration.pdb

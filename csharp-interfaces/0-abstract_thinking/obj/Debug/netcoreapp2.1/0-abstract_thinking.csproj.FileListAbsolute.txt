@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.pdb

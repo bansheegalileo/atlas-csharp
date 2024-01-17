@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-user_interface</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> base class </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>name prop</summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> overrides tostring </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary>interactive interface</summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> used for interactions</summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> ibreakable interface </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> item durability </summary>
+            <value> getter/setter </value>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> break item </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> icollectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> check if collected </summary>
+            <value> get/set </value>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary>
+            Used to collect something.
+            </summary>
+        </member>
+        <member name="T:TestObject">
+            <summary>
+            Used for test purpose
+            </summary>
+        </member>
+        <member name="P:TestObject.durability">
+            <summary>
+            Used for item durability
+            </summary>
+            <value>Getter and setter</value>
+        </member>
+        <member name="P:TestObject.isCollected">
+            <summary> used to collect </summary>
+            <value></value>
+        </member>
+        <member name="M:TestObject.Interact">
+            <summary> interaction </summary>
+        </member>
+        <member name="M:TestObject.Break">
+            <summary> break </summary>
+        </member>
+        <member name="M:TestObject.Collect">
+            <summary> collect </summary>
+        </member>
+    </members>
+</doc>

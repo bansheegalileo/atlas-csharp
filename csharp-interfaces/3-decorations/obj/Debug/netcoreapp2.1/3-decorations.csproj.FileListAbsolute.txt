@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.pdb

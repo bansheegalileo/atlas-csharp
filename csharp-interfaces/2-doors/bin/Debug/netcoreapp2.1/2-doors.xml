@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-doors</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> base class </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>name prop</summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> overrides tostring </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary>interactive interface</summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> used for interactions</summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> ibreakable interface </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> item durability </summary>
+            <value> getter/setter </value>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> break item </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> icollectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> check if collected </summary>
+            <value> get/set </value>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary> collects </summary>
+        </member>
+        <member name="T:Door">
+            <summary> door class </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary> default door constructor</summary>
+            <param name="Name">default name dor, value cstr.</param>
+        </member>
+        <member name="M:Door.Interact">
+            <summary> for interactions </summary>
+        </member>
+    </members>
+</doc>

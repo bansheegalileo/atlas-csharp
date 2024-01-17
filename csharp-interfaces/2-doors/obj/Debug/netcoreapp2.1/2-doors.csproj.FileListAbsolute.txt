@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.pdb

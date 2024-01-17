@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.pdb

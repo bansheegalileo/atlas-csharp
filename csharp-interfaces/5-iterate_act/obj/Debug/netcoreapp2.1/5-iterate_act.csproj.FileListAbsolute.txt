@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp2.1\5-iterate_act.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp2.1\5-iterate_act.pdb
