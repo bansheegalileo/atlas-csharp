@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\bin\Debug\netcoreapp2.1\2-subclass.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\2-subclass\obj\Debug\netcoreapp2.1\2-subclass.pdb

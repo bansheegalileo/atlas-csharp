@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-instance</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>represents class obj</summary>
+        </member>
+        <member name="M:Obj.IsInstanceOfArray(System.Object)">
+            <summary>checks instance of obj</summary>
+            <param name="obj">obj to check</param>
+            <returns> if instance of or class inhr. of array true, otherwise false</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\bin\Debug\netcoreapp2.1\7-shape.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\7-shape\obj\Debug\netcoreapp2.1\7-shape.pdb

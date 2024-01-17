@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>0-is</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>class obj</summary>
+        </member>
+        <member name="M:Obj.IsOfTypeInt(System.Object)">
+            <summary>checks if obj is type int</summary>
+            <param name="obj">obj to check</param>
+            <returns>true if int false if not</returns>
+        </member>
+    </members>
+</doc>

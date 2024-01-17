@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>base calss for shapes</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary> not yet implemented</summary>
+            <returns>int</returns>
+        </member>
+        <member name="T:Rectangle">
+            <summary> rectangle derived from shape class </summary>
+        </member>
+    </members>
+</doc>

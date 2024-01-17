@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>7-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>base calss for shapes</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary> not yet implemented</summary>
+            <returns>int</returns>
+        </member>
+        <member name="T:Rectangle">
+            <summary> rectangle derived from shape class </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            get: width
+            set: if negative, throw arumentexception with msg width
+            must be >= 0. set width to value otherwise
+            </summary>
+            <value>width type(int)</value>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            get: height
+            set: if negative, throw arumentexception with msg height
+            must be >= 0. set height to value otherwise
+            </summary>
+            <value>height type(int)</value>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary> overrides area method in base shape</summary>
+            <returns>area of rectangle</returns>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary> provides representation </summary>
+        </member>
+    </members>
+</doc>

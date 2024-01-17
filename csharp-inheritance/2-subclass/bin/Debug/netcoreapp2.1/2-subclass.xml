@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>Represents the class Obj.</summary>
+        </member>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary> checks if obj is a derived class</summary>
+            <param name="derivedType">derived type to check</param>
+            <param name="baseType">base class</param>
+            <returns>true if subclass, false otherwise</returns>
+        </member>
+    </members>
+</doc>

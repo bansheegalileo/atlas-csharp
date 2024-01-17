@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>9-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Base class for shapes. 
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Not Implemented yet
+            </summary>
+            <returns>An integer</returns>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Rectangle class derived from shape class.
+            </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            get: retrieve width
+            set: if value is negative, throw an ArgumentException with the message Width
+            must be greater than or equal to 0. Otherwise, set width to the value.
+            </summary>
+            <value>width type(int)</value>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            get: retrieve height
+            set: if value is negative, throw an ArgumentException with the message Height
+            must be greater than or equal to 0. Otherwise, set Height to the value.
+            </summary>
+            <value>height type(int)</value>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>
+            This will override the Area() method defined in the Shape base class.
+            </summary>
+            <returns>Returns the area of the rectangle</returns>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>
+            This will provide a better representation for the Rectangle. 
+            [Rectangle] width / height.
+            </summary>
+        </member>
+        <member name="T:Square">
+            <summary>
+            Square class derived from Rectangle
+            </summary>
+        </member>
+        <member name="P:Square.Size">
+            <summary>
+            Getter and setter for size value
+            </summary>
+            <value>Size type(int)</value>
+        </member>
+        <member name="M:Square.ToString">
+            <summary>
+            [Square] size / size
+            </summary>
+        </member>
+    </members>
+</doc>

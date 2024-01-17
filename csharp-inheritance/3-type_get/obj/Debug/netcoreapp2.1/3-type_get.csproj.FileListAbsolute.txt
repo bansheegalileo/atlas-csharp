@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.pdb

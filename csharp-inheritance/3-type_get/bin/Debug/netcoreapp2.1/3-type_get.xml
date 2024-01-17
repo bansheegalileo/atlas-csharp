@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-type_get</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>represents class obj</summary>
+        </member>
+        <member name="M:Obj.Print(System.Object)">
+            <summary> prints names and properties of an obj</summary>
+            <param name="myObj">object to get info from</param>
+        </member>
+    </members>
+</doc>
