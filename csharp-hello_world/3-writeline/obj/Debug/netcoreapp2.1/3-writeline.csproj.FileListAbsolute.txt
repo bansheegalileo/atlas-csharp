@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-writeline.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-writeline.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-writeline.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-writeline.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-writeline.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-writeline.pdb

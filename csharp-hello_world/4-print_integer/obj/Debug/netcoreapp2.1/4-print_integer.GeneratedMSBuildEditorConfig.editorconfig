@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _4_print_integer
+build_property.ProjectDir = \\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\4-print_integer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>str class</summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>how many words are in a str</summary>
+            <param name="s">str2check.</param>
+            <returns>number of words in s</returns>
+        </member>
+    </members>
+</doc>

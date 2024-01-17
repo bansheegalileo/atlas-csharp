@@ -1,0 +1,4 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netcoreapp2.1\MyMath.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netcoreapp2.1\MyMath.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netcoreapp2.1\MyMath.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netcoreapp2.1\MyMath.AssemblyInfo.cs

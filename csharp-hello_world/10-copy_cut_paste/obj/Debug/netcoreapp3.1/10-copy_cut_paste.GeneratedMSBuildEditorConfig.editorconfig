@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _10_copy_cut_paste
+build_property.ProjectDir = \\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\10-copy_cut_paste\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

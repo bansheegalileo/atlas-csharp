@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\bin\Debug\netcoreapp2.1\7-concat.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\bin\Debug\netcoreapp2.1\7-concat.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\bin\Debug\netcoreapp2.1\7-concat.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\bin\Debug\netcoreapp2.1\7-concat.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\bin\Debug\netcoreapp2.1\7-concat.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\7-concat\obj\Debug\netcoreapp2.1\7-concat.pdb

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _3_writeline
+build_property.ProjectDir = \\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-hello_world\3-writeline\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

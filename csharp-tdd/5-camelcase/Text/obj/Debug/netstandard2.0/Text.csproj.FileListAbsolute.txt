@@ -1,0 +1,10 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.pdb

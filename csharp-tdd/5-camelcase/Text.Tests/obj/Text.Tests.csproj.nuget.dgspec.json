@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj": {}
+  },
+  "projects": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj",
+        "projectName": "Text.Tests",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj",
+        "packagesPath": "C:\\Users\\BANSHEE\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BANSHEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+        "projectName": "Text",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+        "packagesPath": "C:\\Users\\BANSHEE\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\f0x\\atlas-csharp\\csharp-tdd\\5-camelcase\\Text\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BANSHEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

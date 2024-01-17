@@ -1,0 +1,10 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.pdb
