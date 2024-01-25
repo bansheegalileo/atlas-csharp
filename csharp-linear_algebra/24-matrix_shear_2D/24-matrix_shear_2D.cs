@@ -26,7 +26,6 @@ class MatrixMath
         }
         return res;  
     }
-}
     /// <summary>sheards 2d matrix by given shear factor</summary>
     /// <param name="matrix">mtx</param>
     /// <param name="direction">shear direction</param>

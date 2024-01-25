@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb
