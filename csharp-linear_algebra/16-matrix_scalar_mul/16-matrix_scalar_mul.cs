@@ -5,7 +5,7 @@ class MatrixMath
 {
     /// <summary>multiplies matrix and scalar</summary>
     /// <param name="matrix">mtx</param>
-    /// <param name="scalar">multi number/param>
+    /// <param name="scalar">multi number</param>
     /// <returns>post-multi mtx</returns>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar){
         if (matrix.Length <= 1 ||

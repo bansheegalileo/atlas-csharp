@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>16-matrix_scalar_mul</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>matrixmath</summary>
+        </member>
+        <member name="M:MatrixMath.MultiplyScalar(System.Double[0:,0:],System.Double)">
+            <summary>multiplies matrix and scalar</summary>
+            <param name="matrix">mtx</param>
+            <param name="scalar">multi number</param>
+            <returns>post-multi mtx</returns>
+        </member>
+    </members>
+</doc>

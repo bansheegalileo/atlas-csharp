@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.pdb
