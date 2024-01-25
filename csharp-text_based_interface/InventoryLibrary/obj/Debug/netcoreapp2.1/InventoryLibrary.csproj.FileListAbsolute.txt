@@ -1,0 +1,9 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.pdb
