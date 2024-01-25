@@ -38,7 +38,7 @@ class MatrixMath
         res = Multiply(matrix, rotation);
         for (int i = 0; i < res.GetLength(0); i++){
             for (int j = 0; j < res.GetLength(0); j++){
-                res[i,j] = Math.Round(res[i, j]);
+                res[i,j] = Math.Round(res[i, j], 2);
                 }
             }
         return res;
