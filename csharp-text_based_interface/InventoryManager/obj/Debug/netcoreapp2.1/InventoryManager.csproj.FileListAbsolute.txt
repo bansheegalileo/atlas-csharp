@@ -1,0 +1,4 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.AssemblyInfo.cs
