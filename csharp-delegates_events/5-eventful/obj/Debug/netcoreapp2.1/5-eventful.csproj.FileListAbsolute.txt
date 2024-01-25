@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.pdb

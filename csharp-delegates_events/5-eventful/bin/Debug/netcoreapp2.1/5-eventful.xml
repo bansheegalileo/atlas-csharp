@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-eventful</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary>mod used with delegates</summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary>weak default should be 0.5</summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary>base default should be 1</summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary>strong default should be 1.5</summary>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary>evargs class for current hp</summary>
+        </member>
+        <member name="P:CurrentHPArgs.currentHp">
+            <summary>current hp prop</summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>construct</summary>
+            <param name="newHp">new hp</param>
+        </member>
+        <member name="T:CalculateHealth">
+            <summary>health calc</summary>
+            <param name="amount">amt </param>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>calc mod delegate</summary>
+            <param name="baseValue">base val</param>
+            <param name="modifier">mod</param>
+            <returns>returns delegate</returns>
+        </member>
+        <member name="T:Player">
+            <summary>player class</summary>
+        </member>
+        <member name="E:Player.HPCheck">
+            <summary>ev handler for current hp check</summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>player constructor</summary>
+            <param name="name">name</param>
+            <param name="maxHp">max hp</param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>prints current health</summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>take dmg</summary>
+            <param name="damage">dmg amt</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>heal</summary>
+            <param name="heal">amt healed</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>define new hp</summary>
+            <param name="newHp">sets new hp</param>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>apply baseval based on mod</summary>
+            <param name="baseValue">base value</param>
+            <param name="modifier">mod</param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.CheckStatus(System.Object,CurrentHPArgs)">
+            <summary>check/set status based on hp</summary>
+            <param name="sender">event sender</param>
+            <param name="e">current hp evargs</param>
+        </member>
+        <member name="M:Player.OnCheckStatus(CurrentHPArgs)">
+            <summary>check status and assign warning based on hp</summary>
+            <param name="e">hp ev args</param>
+        </member>
+        <member name="M:Player.HPValueWarning(System.Object,CurrentHPArgs)">
+            <summary>handle hpvaluewarning</summary>
+            <param name="sender">event send</param>
+            <param name="e">current hpev args</param>
+        </member>
+    </members>
+</doc>

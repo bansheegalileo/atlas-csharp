@@ -184,22 +184,27 @@ public class Player
         Console.WriteLine(status);
     }
 
-    /// <summary>check status and assign warning based on hp</summary>
-    /// <param name="e">hp ev args</param>
-    private void OnCheckStatus(CurrentHPArgs e)
+/// <summary>check status and assign warning based on hp</summary>
+/// <param name="e">hp ev args</param>
+private void OnCheckStatus(CurrentHPArgs e)
+{
+    if (e.currentHp == 0)
     {
-        if (e.currentHp == 0)
-        {
-            Console.WriteLine("Health has reached zero!");
-        }
-        else if (e.currentHp < maxHp / 4)
-        {
-            Console.WriteLine("Health is low!");
-            HPCheck += HPValueWarning;
-        }
-
+        Console.WriteLine("Health has reached zero!");
         HPCheck?.Invoke(this, e);
     }
+    else if (e.currentHp < maxHp / 4)
+    {
+        Console.WriteLine("Health is low!");
+        HPCheck += HPValueWarning;
+        HPCheck?.Invoke(this, e);
+    }
+    else
+    {
+        HPCheck?.Invoke(this, e);
+    }
+}
+
 
     /// <summary>handle hpvaluewarning</summary>
     /// <param name="sender">event send</param>
