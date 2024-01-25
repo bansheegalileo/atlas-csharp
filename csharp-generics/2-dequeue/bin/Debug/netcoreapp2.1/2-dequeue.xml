@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-dequeue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>queue</summary>
+            <typeparam name="T">any type</typeparam>
+        </member>
+        <member name="P:Queue`1.head">
+            <summary>used4 get/set</summary>
+            <value>first elem</value>
+        </member>
+        <member name="P:Queue`1.tail">
+            <summary>used4 get/set</summary>
+            <value>last elem</value>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>checks generic class type</summary>
+            <returns>type</returns>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>cre8s new node + adds to end of queue</summary>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>remove elem from Q</summary>
+            <returns>val of removed elem</returns>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>counts nodes in Q</summary>
+            <returns>num of Q'd elems</returns>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>node of the Q</summary>
+        </member>
+        <member name="P:Queue`1.Node.value">
+            <summary>get/set node value</summary>
+        </member>
+        <member name="P:Queue`1.Node.next">
+            <summary>nxt node</summary>
+            <value>get/set nxt node</value>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>default node cl. cinstructor</summary>
+            <param name="value">setup node val on init</param>
+        </member>
+    </members>
+</doc>

@@ -86,7 +86,8 @@ public class Queue<T>
     }
     /// <summary>node of the Q</summary>
     public class Node{
-        private T value { get; set; }
+        /// <summary>get/set node value</summary>
+        public T value { get; set; }
         /// <summary>nxt node</summary>
         /// <value>get/set nxt node</value>
         public Node next { get; set; }

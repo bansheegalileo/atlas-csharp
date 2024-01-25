@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.xml
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.pdb
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csprojAssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.dll
+\\wsl.localhost\Ubuntu-20.04\home\f0x\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.pdb
