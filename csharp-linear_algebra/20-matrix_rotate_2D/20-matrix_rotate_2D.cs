@@ -26,7 +26,6 @@ class MatrixMath
         }
         return res;  
     }
-}
     /// <summary>rotates squar matrix by given angle</summary>
     /// <param name="matrix">mtx</param>
     /// <param name="angle">angle</param>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>20-matrix_rotate_2D</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>matrixmath</summary>
+        </member>
+        <member name="M:MatrixMath.Multiply(System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>multis 2 matrices</summary>
+            <param name="matrix1">1st mtx</param>
+            <param name="matrix2">2nd mtx</param>
+            <returns>post-process mtx</returns>
+        </member>
+        <member name="M:MatrixMath.Rotate2D(System.Double[0:,0:],System.Double)">
+            <summary>rotates squar matrix by given angle</summary>
+            <param name="matrix">mtx</param>
+            <param name="angle">angle</param>
+            <returns>rotated mtx</returns>
+        </member>
+    </members>
+</doc>
