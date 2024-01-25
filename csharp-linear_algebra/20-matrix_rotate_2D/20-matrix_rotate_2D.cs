@@ -36,6 +36,11 @@ class MatrixMath
         var rotation = new double[2,2]{{cosAngle, sinAngle}, {-sinAngle, cosAngle}};
         var res = new double[matrix.GetLength(0),matrix.GetLength(1)];
         res = Multiply(matrix, rotation);
+        for (int i = 0; i < res.GetLength(0); i++){
+            for (int j = 0; j < res.GetLength(0); j++){
+                res[i,j] = Math.Round(res[i, j]);
+                }
+            }
         return res;
     }
 }
